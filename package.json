@@ -1,0 +1,22 @@
+{
+  "name": "asset-content-check-webpack-plugin",
+  "version": "1.0.1",
+  "description": "A Webpack plugin to check whether the content of the file has specified content after build",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@https://github.com/fyzhaha/asset-content-check-webpack-plugin.git"
+  },
+  "keywords": [
+    "asset content check",
+    "build",
+    "webpack",
+    "webpack plugins"
+  ],
+  "author": "zhuzhu",
+  "license": "ISC",
+  "homepage": "https://github.com/fyzhaha/asset-content-check-webpack-plugin",
+  "dependencies": {}
+}
